@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.cathleen.testsqlitedatabase.MainActivity">
+
+    <item android:id="@+id/action_search"
+        android:title="查找"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/action_insert"
+        android:title="新增"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+</menu>
